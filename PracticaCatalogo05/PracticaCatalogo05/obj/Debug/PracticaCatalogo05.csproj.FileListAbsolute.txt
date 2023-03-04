@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\PracticaCatalogo05\PracticaCatalogo05\bin\Debug\PracticaCatalogo05.exe.config
+C:\Users\Usuario\Desktop\PracticaCatalogo05\PracticaCatalogo05\bin\Debug\PracticaCatalogo05.exe
+C:\Users\Usuario\Desktop\PracticaCatalogo05\PracticaCatalogo05\bin\Debug\PracticaCatalogo05.pdb
+C:\Users\Usuario\Desktop\PracticaCatalogo05\PracticaCatalogo05\obj\Debug\PracticaCatalogo05.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PracticaCatalogo05\PracticaCatalogo05\obj\Debug\PracticaCatalogo05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\PracticaCatalogo05\PracticaCatalogo05\obj\Debug\PracticaCatalogo05.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PracticaCatalogo05\PracticaCatalogo05\obj\Debug\PracticaCatalogo05.exe
+C:\Users\Usuario\Desktop\PracticaCatalogo05\PracticaCatalogo05\obj\Debug\PracticaCatalogo05.pdb
